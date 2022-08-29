@@ -1,0 +1,375 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd">
+<!-- Title: Project_splitting-015.lqxo -->
+<!-- Creator: lqn2svg Version 5.24 -->
+<!-- Sat Apr 16 02:44:46 2022 -->
+<!-- For: acer -->
+<!-- Invoked as: lqn2svg Project_splitting-015.lqxo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="4.6in" height="13.5694in" viewBox="0 0 8280 24425">
+<desc>0x12b9ec8</desc>
+<!-- Task USERSr  users -1 PC -->
+<polygon  fill="#ffffff" stroke="black" stroke-width="25" points="3402.5,500 5090,500 4977.5,1625 3290,1625 "/>
+<polygon  fill="#ffffff" stroke="black" stroke-width="25" points="3352.5,450 5040,450 4927.5,1575 3240,1575 "/>
+<text x="4140" y="1538" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.12,&#0961;=314</text>
+<text x="4140" y="1313" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">USERS {550} Z=2000</text>
+<!-- Entry users s [1] -->
+<polyline  stroke="black" stroke-width="25" fill="none" points="3667.5,450 3600,1125 4657.5,1125 4725,450 "/>
+<text x="4163" y="1069" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">2.62e+03</text>
+<text x="4163" y="844" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[1]</text>
+<text x="4163" y="619" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">users</text>
+<!-- Call users Analyze y (0.25) -->
+<line x1="4162.5" y1="1125" x2="4351.25" y2="2925" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4351.25,2925 4385.33,2770.6 4338.21,2800.68 4285.88,2781.03 "/>
+<text x="4304" y="2663" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">1.03e+04</text>
+<text x="4304" y="2438" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(0.25)</text>
+<!-- Task checkn  Analyze -1 WSP -->
+<polygon  fill="#ffe5e5" stroke="Red" stroke-width="25" points="2996.25,2925 5773.75,2925 5283.75,7825 2506.25,7825 "/>
+<text x="4140" y="4038" font-family="Times" font-style="Roman" font-size="225" fill="Red" text-anchor="middle">&#0955;=0.03,&#0961;=1.07</text>
+<text x="4140" y="3813" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">check</text>
+<!-- Entry Analyze A analyze -->
+<polyline  stroke="Red" stroke-width="25" fill="none" points="3856.25,2925 3788.75,3600 4846.25,3600 4913.75,2925 "/>
+<text x="4351" y="3450" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">35.7</text>
+<text x="4351" y="3225" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">Analyze</text>
+<line x1="4351.25" y1="3600" x2="4158.75" y2="4050" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4158.75,4050 4263.72,3931.75 4207.91,3935.07 4171.77,3892.42 "/>
+<!-- Call result Analyze -->
+<line x1="4421.25" y1="6900" x2="4632.5" y2="3600" stroke-dasharray="75" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4632.5,3600 4573.02,3746.5 4624.51,3724.74 4672.82,3752.89 "/>
+<!-- Activity analyze s [0] level=1 -->
+<polygon  fill="#ffe5e5" stroke="Red" stroke-width="25" points="3633.75,4725 3633.75,4050 4683.75,4050 4683.75,4725 3633.75,4725 "/>
+<text x="4159" y="4669" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="4159" y="4444" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="4159" y="4219" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">analyze</text>
+<!-- Activity ps1 s [0] level=2 -->
+<polygon  fill="#ffe5e5" stroke="Red" stroke-width="25" points="3033.75,6150 3033.75,5475 4083.75,5475 4083.75,6150 3033.75,6150 "/>
+<!-- Call ps1 PS1 y (1) -->
+<line x1="3296.25" y1="6150" x2="2605" y2="9175" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2605,9175 2687.16,9039.91 2632.85,9053.14 2589.67,9017.63 "/>
+<text x="2708" y="8913" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="2708" y="8688" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1)</text>
+<text x="3559" y="6094" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">11.3</text>
+<text x="3559" y="5869" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="3559" y="5644" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">ps1</text>
+<!-- Activity ps2 s [0] level=2 -->
+<polygon  fill="#ffe5e5" stroke="Red" stroke-width="25" points="4233.75,6150 4233.75,5475 5283.75,5475 5283.75,6150 4233.75,6150 "/>
+<!-- Call ps2 PS2 y (1) -->
+<line x1="5021.25" y1="6150" x2="6097.5" y2="9175" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="6097.5,9175 6094.33,9016.92 6055.6,9057.23 6000.11,9050.44 "/>
+<text x="5937" y="8913" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">33</text>
+<text x="5937" y="8688" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1)</text>
+<text x="4759" y="6094" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">255</text>
+<text x="4759" y="5869" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="4759" y="5644" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">ps2</text>
+<!-- Activity result s [0] level=3 -->
+<polygon  fill="#ffe5e5" stroke="Red" stroke-width="25" points="3633.75,7575 3633.75,6900 4683.75,6900 4683.75,7575 3633.75,7575 "/>
+<text x="4159" y="7519" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="4159" y="7294" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="4159" y="7069" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">result</text>
+<line x1="4158.75" y1="4725" x2="4158.75" y2="4975" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4158.75,4975 4208.75,4825 4158.75,4850 4108.75,4825 "/>
+<circle cx="4159" cy="6500" r="150"  fill="#ffe5e5" stroke="Red" stroke-width="25"/>
+<text x="4159" y="6575" font-family="Times" font-style="Roman" font-size="225" fill="Red" text-anchor="middle">+</text>
+<line x1="3558.75" y1="6150" x2="4029.18" y2="6424.42" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4029.18,6424.42 3924.81,6305.65 3921.21,6361.44 3874.42,6392.03 "/>
+<line x1="4758.75" y1="6150" x2="4288.32" y2="6424.42" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4288.32,6424.42 4443.08,6392.03 4396.29,6361.44 4392.69,6305.65 "/>
+<circle cx="4159" cy="5125" r="150"  fill="#ffe5e5" stroke="Red" stroke-width="25"/>
+<text x="4159" y="5200" font-family="Times" font-style="Roman" font-size="225" fill="Red" text-anchor="middle">+</text>
+<line x1="4029.18" y1="5200.58" x2="3558.75" y2="5475" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="3558.75,5475 3713.51,5442.61 3666.72,5412.02 3663.12,5356.23 "/>
+<line x1="4288.32" y1="5200.58" x2="4758.75" y2="5475" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4758.75,5475 4654.38,5356.23 4650.78,5412.02 4603.99,5442.61 "/>
+<line x1="4029.18" y1="5200.58" x2="3558.75" y2="5475" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="3558.75,5475 3713.51,5442.61 3666.72,5412.02 3663.12,5356.23 "/>
+<line x1="4288.32" y1="5200.58" x2="4758.75" y2="5475" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4758.75,5475 4654.38,5356.23 4650.78,5412.02 4603.99,5442.61 "/>
+<text x="3602" y="5402" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.9</text>
+<text x="4716" y="5402" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.1</text>
+<line x1="4158.75" y1="6650" x2="4158.75" y2="6900" stroke="Red" stroke-width="25"/>
+<polygon fill="Red" stroke="Red" stroke-width="25" points="4158.75,6900 4208.75,6750 4158.75,6775 4108.75,6750 "/>
+<!-- Call check WSP -->
+<line x1="4956.87" y1="7825" x2="5348.7" y2="20375.3" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="5348.7,20375.3 5393.99,20223.8 5344.8,20250.3 5294.04,20226.9 "/>
+<!-- Task ProtocolStackT1n  PS1 -1 WSP -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="1250,9175 4027.5,9175 3537.5,14075 760,14075 "/>
+<text x="2394" y="10288" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.0248,&#0961;=0.283</text>
+<text x="2394" y="10063" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">ProtocolStackT1</text>
+<!-- Entry PS1 A analyzestart1 -->
+<polyline  stroke="Indigo" stroke-width="25" fill="none" points="2110,9175 2042.5,9850 3100,9850 3167.5,9175 "/>
+<text x="2605" y="9700" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">11.4</text>
+<text x="2605" y="9475" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">PS1</text>
+<line x1="2605" y1="9850" x2="2412.5" y2="10300" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2412.5,10300 2517.47,10181.8 2461.66,10185.1 2425.52,10142.4 "/>
+<!-- Call result PS1 -->
+<line x1="2675" y1="13150" x2="2886.25" y2="9850" stroke-dasharray="75" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2886.25,9850 2826.77,9996.5 2878.26,9974.74 2926.57,10002.9 "/>
+<!-- Activity Cache s [0] level=2 -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="1287.5,12400 1287.5,11725 2337.5,11725 2337.5,12400 1287.5,12400 "/>
+<!-- Call Cache CacheW y (1) -->
+<line x1="2075" y1="12400" x2="5658.75" y2="15425" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="5658.75,15425 5576.38,15290 5563.23,15344.4 5511.87,15366.5 "/>
+<text x="5126" y="15163" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.151</text>
+<text x="5126" y="14938" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1)</text>
+<text x="1813" y="12344" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">1.15</text>
+<text x="1813" y="12119" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="1813" y="11894" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">Cache</text>
+<!-- Activity Disk s [0] level=2 -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="2487.5,12400 2487.5,11725 3537.5,11725 3537.5,12400 2487.5,12400 "/>
+<!-- Call Disk DiskW y (1) -->
+<line x1="3275" y1="12400" x2="6716.25" y2="15425" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="6716.25,15425 6636.6,15288.4 6622.37,15342.5 6570.58,15363.5 "/>
+<text x="6204" y="15163" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.538</text>
+<text x="6204" y="14938" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1)</text>
+<text x="3013" y="12344" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">31.9</text>
+<text x="3013" y="12119" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="3013" y="11894" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">Disk</text>
+<!-- Activity analyzestart1 s [1] level=1 -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="1887.5,10975 1887.5,10300 2937.5,10300 2937.5,10975 1887.5,10975 "/>
+<text x="2413" y="10919" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">1.02</text>
+<text x="2413" y="10694" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[1]</text>
+<text x="2413" y="10469" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">analyzestart1</text>
+<!-- Activity result s [0] level=3 -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="1887.5,13825 1887.5,13150 2937.5,13150 2937.5,13825 1887.5,13825 "/>
+<text x="2413" y="13769" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="2413" y="13544" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="2413" y="13319" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">result</text>
+<circle cx="2413" cy="12750" r="150"  fill="#e5f0ff" stroke="Indigo" stroke-width="25"/>
+<text x="2413" y="12825" font-family="Times" font-style="Roman" font-size="225" fill="Indigo" text-anchor="middle">+</text>
+<line x1="1812.5" y1="12400" x2="2282.93" y2="12674.4" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2282.93,12674.4 2178.56,12555.6 2174.96,12611.4 2128.17,12642 "/>
+<line x1="3012.5" y1="12400" x2="2542.07" y2="12674.4" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2542.07,12674.4 2696.83,12642 2650.04,12611.4 2646.44,12555.6 "/>
+<circle cx="2413" cy="11375" r="150"  fill="#e5f0ff" stroke="Indigo" stroke-width="25"/>
+<text x="2413" y="11450" font-family="Times" font-style="Roman" font-size="225" fill="Indigo" text-anchor="middle">+</text>
+<line x1="2282.93" y1="11450.6" x2="1812.5" y2="11725" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="1812.5,11725 1967.26,11692.6 1920.47,11662 1916.87,11606.2 "/>
+<line x1="2542.07" y1="11450.6" x2="3012.5" y2="11725" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="3012.5,11725 2908.13,11606.2 2904.53,11662 2857.74,11692.6 "/>
+<line x1="2282.93" y1="11450.6" x2="1812.5" y2="11725" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="1812.5,11725 1967.26,11692.6 1920.47,11662 1916.87,11606.2 "/>
+<line x1="2542.07" y1="11450.6" x2="3012.5" y2="11725" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="3012.5,11725 2908.13,11606.2 2904.53,11662 2857.74,11692.6 "/>
+<text x="1856" y="11652" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.7</text>
+<text x="2969" y="11652" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.3</text>
+<line x1="2412.5" y1="10975" x2="2412.5" y2="11225" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2412.5,11225 2462.5,11075 2412.5,11100 2362.5,11075 "/>
+<line x1="2412.5" y1="12900" x2="2412.5" y2="13150" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="2412.5,13150 2462.5,13000 2412.5,13025 2362.5,13000 "/>
+<!-- Call ProtocolStackT1 WSP -->
+<line x1="3210.63" y1="14075" x2="5197.68" y2="20400.9" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="5197.68,20400.9 5200.43,20242.8 5160.22,20281.6 5105.03,20272.7 "/>
+<!-- Task ProtocolStackT2n  PS2 -1 WSP -->
+<polygon  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25" points="4742.5,9175 7520,9175 7030,14075 4252.5,14075 "/>
+<text x="5886" y="10288" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.00276,&#0961;=0.62</text>
+<text x="5886" y="10063" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">ProtocolStackT2</text>
+<!-- Entry PS2 A analyzestart2 -->
+<polyline  stroke="SpringGreen" stroke-width="25" fill="none" points="5602.5,9175 5535,9850 6592.5,9850 6660,9175 "/>
+<text x="6098" y="9700" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">225</text>
+<text x="6098" y="9475" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">PS2</text>
+<line x1="6097.5" y1="9850" x2="5905" y2="10300" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="5905,10300 6009.97,10181.8 5954.16,10185.1 5918.02,10142.4 "/>
+<!-- Call result PS2 -->
+<line x1="6167.5" y1="13150" x2="6378.75" y2="9850" stroke-dasharray="75" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="6378.75,9850 6319.27,9996.5 6370.76,9974.74 6419.07,10002.9 "/>
+<!-- Activity analyzestart2 s [1] level=1 -->
+<polygon  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25" points="5380,10975 5380,10300 6430,10300 6430,10975 5380,10975 "/>
+<text x="5905" y="10919" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">1.02</text>
+<text x="5905" y="10694" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[1]</text>
+<text x="5905" y="10469" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">analyzestart2</text>
+<!-- Activity result s [0] level=3 -->
+<polygon  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25" points="5380,13825 5380,13150 6430,13150 6430,13825 5380,13825 "/>
+<text x="5905" y="13769" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="5905" y="13544" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="5905" y="13319" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">result</text>
+<!-- Activity type2 s [0] level=2 -->
+<polygon  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25" points="4780,12400 4780,11725 5830,11725 5830,12400 4780,12400 "/>
+<!-- Call type2 T2 y (1) -->
+<line x1="5042.5" y1="12400" x2="1923.75" y2="15425" stroke="Cyan" stroke-width="25"/>
+<polygon fill="Cyan" stroke="Cyan" stroke-width="25" points="1923.75,15425 2066.23,15356.5 2013.48,15338 1996.61,15284.7 "/>
+<text x="2388" y="15163" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="2388" y="14938" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1)</text>
+<text x="5305" y="12344" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">174</text>
+<text x="5305" y="12119" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="5305" y="11894" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">type2</text>
+<!-- Activity type3 s [0] level=2 -->
+<polygon  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25" points="5980,12400 5980,11725 7030,11725 7030,12400 5980,12400 "/>
+<!-- Call type3 T3 y (1) -->
+<line x1="6242.5" y1="12400" x2="3948.75" y2="15425" stroke="Turquoise" stroke-width="25"/>
+<polygon fill="Turquoise" stroke="Turquoise" stroke-width="25" points="3948.75,15425 4079.22,15335.7 4024.28,15325.4 3999.54,15275.3 "/>
+<text x="4290" y="15163" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="4290" y="14938" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1)</text>
+<text x="6505" y="12344" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">300</text>
+<text x="6505" y="12119" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[0]</text>
+<text x="6505" y="11894" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">type3</text>
+<line x1="5905" y1="10975" x2="5905" y2="11225" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="5905,11225 5955,11075 5905,11100 5855,11075 "/>
+<line x1="5905" y1="12900" x2="5905" y2="13150" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="5905,13150 5955,13000 5905,13025 5855,13000 "/>
+<circle cx="5905" cy="12750" r="150"  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25"/>
+<text x="5905" y="12825" font-family="Times" font-style="Roman" font-size="225" fill="SpringGreen" text-anchor="middle">+</text>
+<line x1="5305" y1="12400" x2="5775.43" y2="12674.4" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="5775.43,12674.4 5671.06,12555.6 5667.46,12611.4 5620.67,12642 "/>
+<line x1="6505" y1="12400" x2="6034.57" y2="12674.4" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="6034.57,12674.4 6189.33,12642 6142.54,12611.4 6138.94,12555.6 "/>
+<circle cx="5905" cy="11375" r="150"  fill="#f2ffe5" stroke="SpringGreen" stroke-width="25"/>
+<text x="5905" y="11450" font-family="Times" font-style="Roman" font-size="225" fill="SpringGreen" text-anchor="middle">+</text>
+<line x1="5775.43" y1="11450.6" x2="5305" y2="11725" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="5305,11725 5459.76,11692.6 5412.97,11662 5409.37,11606.2 "/>
+<line x1="6034.57" y1="11450.6" x2="6505" y2="11725" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="6505,11725 6400.63,11606.2 6397.03,11662 6350.24,11692.6 "/>
+<line x1="5775.43" y1="11450.6" x2="5305" y2="11725" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="5305,11725 5459.76,11692.6 5412.97,11662 5409.37,11606.2 "/>
+<line x1="6034.57" y1="11450.6" x2="6505" y2="11725" stroke="SpringGreen" stroke-width="25"/>
+<polygon fill="SpringGreen" stroke="SpringGreen" stroke-width="25" points="6505,11725 6400.63,11606.2 6397.03,11662 6350.24,11692.6 "/>
+<text x="5348" y="11652" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.6</text>
+<text x="6462" y="11652" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.4</text>
+<!-- Call ProtocolStackT2 WSP -->
+<line x1="5886.25" y1="14075" x2="5408.75" y2="20376.6" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="5408.75,20376.6 5469.94,20230.8 5418.2,20252 5370.23,20223.3 "/>
+<!-- Task CGIT2n  T2 -1 CGIP2 -->
+<polygon  fill="#e5ffff" stroke="Cyan" stroke-width="25" points="1113.75,15425 2801.25,15425 2688.75,16550 1001.25,16550 "/>
+<text x="1901" y="16513" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.00184,&#0961;=0.357</text>
+<text x="1901" y="16288" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">CGIT2</text>
+<!-- Entry T2 s [15] -->
+<polyline  stroke="Cyan" stroke-width="25" fill="none" points="1428.75,15425 1361.25,16100 2418.75,16100 2486.25,15425 "/>
+<text x="1924" y="16044" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">194</text>
+<text x="1924" y="15819" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[15]</text>
+<text x="1924" y="15594" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">T2</text>
+<!-- Call T2 DBSUpdate y (1.7) -->
+<line x1="1923.75" y1="16100" x2="4815" y2="17900" stroke="Green" stroke-width="25"/>
+<polygon fill="Green" stroke="Green" stroke-width="25" points="4815,17900 4714.09,17778.3 4708.88,17833.9 4661.24,17863.2 "/>
+<text x="4092" y="17638" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">16.4</text>
+<text x="4092" y="17413" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(1.7)</text>
+<!-- Call CGIT2 CGIP2 -->
+<line x1="1451.25" y1="16550" x2="1138.28" y2="17914.2" stroke="Violet" stroke-width="25"/>
+<polygon fill="Violet" stroke="Violet" stroke-width="25" points="1138.28,17914.2 1220.55,17779.2 1166.23,17792.4 1123.08,17756.9 "/>
+<!-- Task CGIT3n  T3 -1 CGIP3 -->
+<polygon  fill="#e5fff2" stroke="Turquoise" stroke-width="25" points="3138.75,15425 4826.25,15425 4713.75,16550 3026.25,16550 "/>
+<text x="3926" y="16513" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.00123,&#0961;=0.441</text>
+<text x="3926" y="16288" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">CGIT3</text>
+<!-- Entry T3 s [23.8] -->
+<polyline  stroke="Turquoise" stroke-width="25" fill="none" points="3453.75,15425 3386.25,16100 4443.75,16100 4511.25,15425 "/>
+<text x="3949" y="16044" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">360</text>
+<text x="3949" y="15819" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[23.8]</text>
+<text x="3949" y="15594" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">T3</text>
+<!-- Call T3 DBSRead y (4.3) -->
+<line x1="3761.25" y1="16100" x2="3757.5" y2="17900" stroke="Green" stroke-width="25"/>
+<polygon fill="Green" stroke="Green" stroke-width="25" points="3757.5,17900 3807.81,17750.1 3757.76,17775 3707.81,17749.9 "/>
+<text x="3758" y="17638" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">18.9</text>
+<text x="3758" y="17413" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(4.3)</text>
+<!-- Call T3 WSDwrite y (0.2) -->
+<line x1="4136.25" y1="16100" x2="7267.5" y2="17900" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="7267.5,17900 7162.37,17781.9 7159.13,17837.7 7112.54,17868.6 "/>
+<text x="6485" y="17638" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.00337</text>
+<text x="6485" y="17413" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(0.2)</text>
+<!-- Call CGIT3 CGIP3 -->
+<line x1="3476.25" y1="16550" x2="2645.57" y2="17976.4" stroke="Violet" stroke-width="25"/>
+<polygon fill="Violet" stroke="Violet" stroke-width="25" points="2645.57,17976.4 2764.27,17872 2708.48,17868.4 2677.85,17821.6 "/>
+<!-- Task WebServern  DiskW CacheW -1 WSP -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="5163.75,15425 7278.75,15425 7166.25,16550 5051.25,16550 "/>
+<text x="6165" y="16513" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.0249,&#0961;=0.252</text>
+<text x="6165" y="16288" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">WebServer</text>
+<!-- Entry CacheW s [1] -->
+<polyline  stroke="Indigo" stroke-width="25" fill="none" points="5096.25,16100 6153.75,16100 6221.25,15425 "/>
+<text x="5659" y="16044" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">1.02</text>
+<text x="5659" y="15819" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[1]</text>
+<text x="5659" y="15594" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">CacheW</text>
+<!-- Entry DiskW s [1] -->
+<line x1="6153.75" y1="16100" x2="7211.25" y2="16100" stroke="Indigo" stroke-width="25"/>
+<text x="6716" y="16044" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">31.4</text>
+<text x="6716" y="15819" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[1]</text>
+<text x="6716" y="15594" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DiskW</text>
+<!-- Call DiskW WSDread y (3) -->
+<line x1="6716.25" y1="16100" x2="6210" y2="17900" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="6210,17900 6298.74,17769.1 6243.84,17779.7 6202.48,17742.1 "/>
+<text x="6337" y="17638" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0.0263</text>
+<text x="6337" y="17413" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(3)</text>
+<!-- Call WebServer WSP -->
+<line x1="5608.12" y1="16550" x2="5397.21" y2="20375.9" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="5397.21,20375.9 5455.39,20228.8 5404.09,20251 5355.55,20223.3 "/>
+<!-- Processor CGIP2 FCFS -->
+<circle cx="1013" cy="18463" r="563"  fill="#f2e5ff" stroke="Violet" stroke-width="25"/>
+<text x="1013" y="18650" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0961;=0.0276</text>
+<text x="1013" y="18425" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">CGIP2</text>
+<!-- Processor CGIP3 FCFS -->
+<circle cx="2363" cy="18463" r="563"  fill="#f2e5ff" stroke="Violet" stroke-width="25"/>
+<text x="2363" y="18650" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0961;=0.0292</text>
+<text x="2363" y="18425" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">CGIP3</text>
+<!-- Task DataBaseServern  DBSUpdate DBSRead -1 DBP -->
+<polygon  fill="#e5ffe5" stroke="Green" stroke-width="25" points="3262.5,17900 5377.5,17900 5265,19025 3150,19025 "/>
+<text x="4264" y="18988" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.00778,&#0961;=0.56</text>
+<text x="4264" y="18763" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DataBaseServer</text>
+<!-- Entry DBSRead s [20] -->
+<polyline  stroke="Green" stroke-width="25" fill="none" points="3195,18575 4252.5,18575 4320,17900 "/>
+<text x="3758" y="18519" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">60.4</text>
+<text x="3758" y="18294" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[20]</text>
+<text x="3758" y="18069" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DBSRead</text>
+<!-- Call DBSRead DBDread y (4) -->
+<line x1="3757.5" y1="18575" x2="2771.25" y2="20375" stroke="Cyan" stroke-width="25"/>
+<polygon fill="Cyan" stroke="Cyan" stroke-width="25" points="2771.25,20375 2887.18,20267.5 2831.31,20265.4 2799.48,20219.4 "/>
+<text x="3018" y="20113" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="3018" y="19888" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(4)</text>
+<!-- Entry DBSUpdate s [30] -->
+<line x1="4252.5" y1="18575" x2="5310" y2="18575" stroke="Green" stroke-width="25"/>
+<text x="4815" y="18519" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">90.7</text>
+<text x="4815" y="18294" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[30]</text>
+<text x="4815" y="18069" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DBSUpdate</text>
+<!-- Call DBSUpdate DBDread y (2) -->
+<line x1="4627.5" y1="18575" x2="3146.25" y2="20375" stroke="Cyan" stroke-width="25"/>
+<polygon fill="Cyan" stroke="Cyan" stroke-width="25" points="3146.25,20375 3280.17,20290.9 3225.68,20278.5 3202.96,20227.4 "/>
+<text x="3887" y="19663" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="3887" y="19438" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(2)</text>
+<!-- Call DBSUpdate DBDwrite y (4) -->
+<line x1="5002.5" y1="18575" x2="4016.25" y2="20375" stroke="Cyan" stroke-width="25"/>
+<polygon fill="Cyan" stroke="Cyan" stroke-width="25" points="4016.25,20375 4132.18,20267.5 4076.31,20265.4 4044.48,20219.4 "/>
+<text x="4263" y="20113" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">0</text>
+<text x="4263" y="19888" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">(4)</text>
+<!-- Call DataBaseServer DBP -->
+<line x1="4263.75" y1="19025" x2="4155.86" y2="22850.2" stroke="Green" stroke-width="25"/>
+<polygon fill="Green" stroke="Green" stroke-width="25" points="4155.86,22850.2 4210.07,22701.7 4159.38,22725.3 4110.11,22698.9 "/>
+<text x="4205" y="19663" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">W[DBSUpdate]=0.0662</text>
+<text x="4205" y="19438" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">W[DBSRead]=0.0473</text>
+<!-- Task WSDiskn  WSDwrite WSDread -1 WSP -->
+<polygon  fill="#e5f0ff" stroke="Indigo" stroke-width="25" points="5715,17900 7830,17900 7717.5,19025 5602.5,19025 "/>
+<text x="6716" y="18988" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.0227,&#0961;=0.23</text>
+<text x="6716" y="18763" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">WSDisk</text>
+<!-- Entry WSDread s [10.1] -->
+<polyline  stroke="Indigo" stroke-width="25" fill="none" points="5647.5,18575 6705,18575 6772.5,17900 "/>
+<text x="6210" y="18519" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">10.1</text>
+<text x="6210" y="18294" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[10.1]</text>
+<text x="6210" y="18069" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">WSDread</text>
+<!-- Entry WSDwrite s [10.1] -->
+<line x1="6705" y1="18575" x2="7762.5" y2="18575" stroke="Indigo" stroke-width="25"/>
+<text x="7268" y="18519" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">10.1</text>
+<text x="7268" y="18294" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[10.1]</text>
+<text x="7268" y="18069" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">WSDwrite</text>
+<!-- Call WSDisk WSP -->
+<line x1="6159.37" y1="19025" x2="5581.73" y2="20417.9" stroke="Indigo" stroke-width="25"/>
+<polygon fill="Indigo" stroke="Indigo" stroke-width="25" points="5581.73,20417.9 5685.37,20298.5 5629.61,20302.4 5593,20260.2 "/>
+<!-- Task DBDiskn  DBDwrite DBDread -1 DBP -->
+<polygon  fill="#e5ffff" stroke="Cyan" stroke-width="25" points="2463.75,20375 4578.75,20375 4466.25,21500 2351.25,21500 "/>
+<text x="3465" y="21463" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0955;=0.0371,&#0961;=0.375</text>
+<text x="3465" y="21238" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DBDisk</text>
+<!-- Entry DBDread s [10.1] -->
+<polyline  stroke="Cyan" stroke-width="25" fill="none" points="2396.25,21050 3453.75,21050 3521.25,20375 "/>
+<text x="2959" y="20994" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">10.1</text>
+<text x="2959" y="20769" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[10.1]</text>
+<text x="2959" y="20544" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DBDread</text>
+<!-- Entry DBDwrite s [10.1] -->
+<line x1="3453.75" y1="21050" x2="4511.25" y2="21050" stroke="Cyan" stroke-width="25"/>
+<text x="4016" y="20994" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">10.1</text>
+<text x="4016" y="20769" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">[10.1]</text>
+<text x="4016" y="20544" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DBDwrite</text>
+<!-- Call DBDisk DBP -->
+<line x1="4021.88" y1="21500" x2="4105.32" y2="22851.1" stroke="Green" stroke-width="25"/>
+<polygon fill="Green" stroke="Green" stroke-width="25" points="4105.32,22851.1 4145.98,22698.3 4097.62,22726.3 4046.17,22704.4 "/>
+<!-- Processor WSP FCFS -->
+<circle cx="5366" cy="20938" r="563"  fill="#e5f0ff" stroke="Indigo" stroke-width="25"/>
+<text x="5366" y="21125" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0961;=0.282</text>
+<text x="5366" y="20900" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">WSP</text>
+<!-- Processor DBP FCFS -->
+<circle cx="4140" cy="23413" r="563"  fill="#e5ffe5" stroke="Green" stroke-width="25"/>
+<text x="4140" y="23600" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">&#0961;=0.56</text>
+<text x="4140" y="23375" font-family="Times" font-style="Roman" font-size="225" fill="black" text-anchor="middle">DBP</text>
+</svg>
